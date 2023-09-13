@@ -1,0 +1,36 @@
+Git and GitHub are often used together, but they serve different purposes and have distinct characteristics. Here are the key differences between Git and GitHub:
+
+**Git:**
+
+1. **Type:** Git is a distributed version control system (DVCS) that manages the source code of projects locally on your computer.
+
+2. **Functionality:** Git is primarily a tool for version control, allowing developers to track changes in their code, create branches, and manage commits.
+
+3. **Location:** Git repositories are stored on your local machine. Each developer has a complete copy of the repository, including its entire history.
+
+4. **Use Case:** Git is used for tracking changes and collaborating on code within a local environment or on a local network.
+
+5. **Collaboration:** While Git supports collaboration among team members on a local network, it does not provide features for easy remote collaboration.
+
+6. **Hosting:** Git does not offer remote repository hosting services. Developers need to use other services or set up their own Git server for remote collaboration.
+
+**GitHub:**
+
+1. **Type:** GitHub is a web-based platform and service that provides hosting for Git repositories.
+
+2. **Functionality:** GitHub extends Git's capabilities by offering a web-based interface for managing repositories, collaboration tools, and features like pull requests, issues tracking,
+and code reviews.
+
+3. **Location:** GitHub hosts repositories on remote servers. Developers can access and collaborate on repositories hosted on GitHub over the internet.
+
+4. **Use Case:** GitHub is used for hosting and collaborating on Git repositories, making it easy for distributed teams to work together on software projects.
+
+5. **Collaboration:** GitHub is designed for remote collaboration. It offers features like pull requests, issues, and code reviews to facilitate collaboration among developers from
+different locations.
+
+6. **Hosting:** GitHub provides a cloud-based hosting service for Git repositories, making it accessible to anyone with an internet connection. It also offers free hosting for public
+repositories and paid plans for private repositories.
+
+In summary, Git is the version control system itself, focused on managing code and history on your local machine or network. GitHub, on the other hand, is a web-based platform built 
+around Git, offering remote hosting and collaboration features to make it easier for teams to work together on software projects. While Git is at the core of version control, GitHub
+enhances the collaboration and project management aspects of software development.
