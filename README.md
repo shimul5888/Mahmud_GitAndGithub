@@ -18,7 +18,9 @@
 
 10. git push
 
-11. 
+11. git clone --single-branch --branch differences https://github.com/Mohaimin-Rahat/AbdulRahat_GitAndGithub.git (to clone other branch as collaborator)
+
+ 
 
 
 
