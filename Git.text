@@ -1,0 +1,5 @@
+Git is a distributed version control system widely used in software development. It tracks changes in code and facilitates collaboration among developers. Git maintains a history of project
+modifications, enabling users to create, edit, and merge code across branches. It offers features like branching, allowing multiple development paths, and commits, which record snapshots of
+changes with descriptive messages. Developers can work independently on their code, merge changes seamlessly, and resolve conflicts. Git is versatile, supporting local and remote
+repositories, enabling collaborative coding across teams and platforms. Its decentralized nature provides robustness and flexibility, making it an essential tool for code management and
+version tracking.
