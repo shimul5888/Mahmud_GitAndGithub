@@ -12,5 +12,11 @@
 
 7. git checkout -b differences
 
+8. git branch
+
+9. git merge
+
+10. git push
+
 
 
